@@ -2,7 +2,7 @@
 
 # Install
 ```
-git clone
+git clone https://github.com/Death-of-life/Cesium.git
 ```
 
 # Usage
